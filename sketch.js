@@ -31,5 +31,5 @@ function draw() {
 
   textSize(32);
   fill(100);
-  text('hey, its whigs.', 400, 200);
+  text('hey, its whigs.', 340, 200);
 }
